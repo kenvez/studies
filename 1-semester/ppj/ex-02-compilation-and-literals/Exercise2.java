@@ -31,7 +31,6 @@ public class Exercise2 {
 	*/
 	
 	public static void main(String[] args) {
-		
 		/*
 			"System" to jest obiekt, w Javie używam '.' aby zainicjować metodę z danego obiektu,
 			nie używamy "::"

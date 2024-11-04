@@ -1,4 +1,4 @@
-public class Zadanie4 {
+public class Exercise4 {
 	public static void main(String[] args) {
 		/*
        Wynik będzie wyświetlony jako liczba całkowita 99,  
