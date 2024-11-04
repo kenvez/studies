@@ -4,7 +4,7 @@ public class Exercise3 {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		
-		System.out.println("Podaj liczbe x: ");
+		System.out.print("Podaj liczbe x: ");
 
 		int x = scanner.nextInt();
 		

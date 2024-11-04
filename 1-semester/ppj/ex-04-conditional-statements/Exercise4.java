@@ -5,7 +5,7 @@ public class Exercise4 {
 		Scanner scanner = new Scanner(System.in);
 		char infinity = '\u221E';
 		
-		System.out.println("Podaj liczbe: ");
+		System.out.print("Podaj liczbe: ");
 		
 		double number = scanner.nextDouble();
 
