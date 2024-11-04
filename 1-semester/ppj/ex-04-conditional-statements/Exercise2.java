@@ -8,7 +8,7 @@ public class Exercise2 {
 
 		int x = scanner.nextInt();
 
-		if(x % 2 == 0) {
+		if (x % 2 == 0) {
 			System.out.println("Liczba x jest: parzysta");
 		} else {
 			System.out.println("Liczba x jest: nieparzysta");
