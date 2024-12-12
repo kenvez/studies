@@ -18,6 +18,7 @@ public class Exercise5 {
 
         return true;
     }
+    
     public static void main(String[] args) {
         int[][] arrOne = {
             {1, 2, 3},

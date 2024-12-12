@@ -10,6 +10,7 @@ public class Exercise2 {
     public static boolean agree(boolean value) {
         return value ? true : true;
     }
+    
     public static void main(String[] args) {
         sayHello("Konrad");
         System.out.println(lie(false));

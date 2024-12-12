@@ -6,6 +6,7 @@ public class Exercise3 {
 
         System.out.println(value);
     }
+    
     public static void main(String[] args) {
         int wrt = 5;
         

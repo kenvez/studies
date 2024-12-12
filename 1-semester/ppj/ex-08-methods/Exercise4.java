@@ -22,6 +22,7 @@ public class Exercise4 {
         
         return min;
     }
+    
     public static void main(String[] args) {
         System.out.println(findMax(2, 10, 3));
         System.out.println(findMin(93, 14, 54));
