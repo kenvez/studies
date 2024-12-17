@@ -20,6 +20,7 @@ public class Exercise12 {
 
         return array;
     }
+    
     public static void main(String[] args) {
         int[] array = {12, 33, 15, 2, 5, 1, 93};
 

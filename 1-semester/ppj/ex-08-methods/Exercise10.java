@@ -7,6 +7,7 @@ public class Exercise10 {
         
         return sum;
     }
+    
     public static void main(String[] args) {
         System.out.println(fibonacci(10));
     }

@@ -36,6 +36,7 @@ public class Exercise13 {
             
         return binarySearch(array, number, center + 1, r);
     }
+    
     public static void main(String[] args) {
         int[] array = {12, 33, 15, 2, 5, 1, 93};
         int[] sortedArray = bubbleSortRe(array, array.length);

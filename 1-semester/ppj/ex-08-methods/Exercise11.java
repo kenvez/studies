@@ -6,6 +6,7 @@ public class Exercise11 {
 
         return sum;
     }
+    
     public static void main(String[] main) {
         System.out.println(sum(123));
     }

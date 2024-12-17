@@ -37,6 +37,7 @@ public class Exercise08 {
         System.out.println("Wynik rzutu: " + diceRolls[0] + " i " + diceRolls[1]);
 
     }
+    
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         boolean quit = false;

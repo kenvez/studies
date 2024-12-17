@@ -6,6 +6,7 @@ public class Exercise09 {
             return factorial(n - 1) * n;
         }
     }
+    
     public static void main(String[] args) {
         System.out.println(factorial(3));
     }
