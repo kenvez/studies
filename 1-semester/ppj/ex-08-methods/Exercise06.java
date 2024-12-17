@@ -1,4 +1,4 @@
-public class Exercise6 {
+public class Exercise06 {
     public static int[] flatten(int[][] array2d) {
         int length = 0;
         

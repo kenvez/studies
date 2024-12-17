@@ -1,4 +1,4 @@
-public class Exercise3 {
+public class Exercise03 {
     public static void modifyValue(int value) {
         System.out.println(value);
 

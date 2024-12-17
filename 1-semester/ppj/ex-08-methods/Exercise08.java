@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Exercise8 {
+public class Exercise08 {
     private static Random random = new Random();
     private static int rollCount = 0;
     private static int[][] results = new int[100][2];

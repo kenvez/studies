@@ -1,4 +1,4 @@
-public class Exercise2 {
+public class Exercise02 {
     public static void sayHello(String user) {
         System.out.println("Hello " + user + "!");
     }

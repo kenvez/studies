@@ -1,4 +1,4 @@
-public class Exercise5 {
+public class Exercise05 {
     public static boolean isEqual(int[][] arrOne, int[][] arrTwo) {
         if (arrOne.length != arrTwo.length) {
             return false;
