@@ -13,6 +13,7 @@ public class Mage extends Character {
     public void setMana(double mana) {
         this.mana = mana;
     }
+    
     @Override
     public void attack(Character target) {
         double boostedDamage = this.getDamage() * 1.5;

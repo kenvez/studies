@@ -28,6 +28,7 @@ public class Character {
     public void attack(Character target) {
         target.health -= this.damage;
     }
+    
     public boolean isAlive() {
         return this.health > 0;
     }

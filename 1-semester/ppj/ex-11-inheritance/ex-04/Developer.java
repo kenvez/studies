@@ -5,6 +5,7 @@ public class Developer extends Employee{
         super(name, baseSalary);
         this.programmingLanguages = programmingLanguages != null ? programmingLanguages : new String[0];
     }
+    
     @Override
     public double getSalary() {
         double base = super.getSalary();

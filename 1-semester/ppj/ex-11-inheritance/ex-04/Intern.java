@@ -27,7 +27,6 @@ public class Intern extends Employee {
         return base;
     }
     
-    
     public void work() {
         cupsOfCoffeeDelivered++;
     }
